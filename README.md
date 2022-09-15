@@ -1,0 +1,13 @@
+# layered-architecture
+![Screenshot 2022-09-14 150805](https://user-images.githubusercontent.com/92322715/190306324-82479543-54ef-4ad1-bf58-eb5841b6af14.png)
+![Screenshot 2022-09-14 151147](https://user-images.githubusercontent.com/92322715/190306344-d83051ac-0d8e-4e2a-bf0f-e5a2f1ac669a.png)
+![Screenshot 2022-09-14 151221](https://user-images.githubusercontent.com/92322715/190306352-4d478ecc-756f-40b9-a91a-6c3a2a9adeae.png)
+![Screenshot 2022-09-14 151241](https://user-images.githubusercontent.com/92322715/190306357-74a952b9-4177-4d33-abcc-72baf69292f7.png)
+![Screenshot 2022-09-14 151337](https://user-images.githubusercontent.com/92322715/190306366-98748edc-8463-47f0-ad39-8b46ea953118.png)
+![Screenshot 2022-09-14 151403](https://user-images.githubusercontent.com/92322715/190306377-1644ff20-7aba-4636-a8db-21d3bbb5fe99.png)
+![Screenshot 2022-09-14 151422](https://user-images.githubusercontent.com/92322715/190306382-2c5edacb-9681-4dfb-89af-4fec6c6ffcfe.png)
+![Screenshot 2022-09-14 151442](https://user-images.githubusercontent.com/92322715/190306393-e84f2875-45ff-4882-9bad-01b1d45fc389.png)
+![Screenshot 2022-09-14 151545](https://user-images.githubusercontent.com/92322715/190306401-b8663b99-f6f5-42de-aa6f-c23ae5468fc1.png)
+![Screenshot 2022-09-14 151726](https://user-images.githubusercontent.com/92322715/190306411-8ccc7daa-91d3-4526-8b96-aac0d97f2df0.png)
+![Screenshot 2022-09-14 151744](https://user-images.githubusercontent.com/92322715/190306422-276da737-8914-41a1-9932-27da1808ca64.png)
+![Screenshot 2022-09-14 151853](https://user-images.githubusercontent.com/92322715/190306425-484e63cb-68a4-444d-ad97-f3fec38f1690.png)
